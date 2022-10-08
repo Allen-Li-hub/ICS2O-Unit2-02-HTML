@@ -1,4 +1,4 @@
-# ICS2O-Unit2-02-HTML-Basic_Math
+# ICS2O-Unit2-02-HTML
 
 [![Mr Coxall's Super Linter](https://github.com/Allen-Li-hub/ICS2O-Unit2-02-HTML//workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Allen-Li-hub/ICS2O-Unit2-02-HTML//actions/)
 
